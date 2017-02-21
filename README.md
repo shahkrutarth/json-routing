@@ -27,6 +27,7 @@ Authentication
 How It Works
 -------------
 
+```
 //define routes default options
 var routeOptions = {
     routesPath      : "./routes",
@@ -38,3 +39,4 @@ var routeOptions = {
     customGlobalPolicy : ["path-of-your-global-policy"],
     excludeRoutes : ["exclude-route/1", "exclude-route/2", "exclude-route/n"]
 }
+```
