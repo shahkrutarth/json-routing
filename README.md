@@ -21,7 +21,7 @@ Addition to this package documentation starts here:
 You can define custom global policy, their is global policy in original package, but it is only ristricted to single file as per my knowledge, this package provides a hook for policy that will be set through out the project regardless of number of files.
 
 For E.g.
-Best case 304 Redirect
+Best case 301 Redirect
 Authentication
 
 How It Works
